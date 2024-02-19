@@ -1,0 +1,112 @@
+{
+  "data": {
+    "projects": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "date": "2022-06-01",
+              "title": "Hyper-Local Live Weather Tracking System | IoT",
+              "tech": [
+                "Android",
+                "Arduino",
+                "Java",
+                "C",
+                "Esp8266",
+                "XML",
+                "Firebase"
+              ],
+              "github": "https://github.com/JayBirthariya581/Hyper-Local-Live-Weather-Tracking-System-IOT-Project",
+              "external": "https://drive.google.com/file/d/1TT3lOVYphn5upzbLa6D3zq30KHqtpDIm/view?usp=drive_link",
+              "ios": null,
+              "android": "https://github.com/JayBirthariya581/Hyper-Local-Live-Weather-Tracking-System-IOT-Project/releases/tag/android",
+              "company": "Personal Project"
+            },
+            "html": "<p> This Android application, developed using Java and IoT technologies, monitors soil health parameters. Real-time data collection and analysis facilitate informed agricultural decisions. Results are transmitted to a government website for crop recommendations, enhancing agricultural productivity and sustainability.</p>"
+          }
+        },{
+          "node": {
+            "frontmatter": {
+              "date": "2020-06-01",
+              "title": "Mechanic App Prototype | TWS",
+              "tech": [
+                "Android",
+                "Node",
+                "Java",
+                "Rest API",
+                "XML",
+                "Firebase"
+              ],
+              "github": "https://github.com/JayBirthariya581/Mechanic-Project-TWS",
+              "external": null,
+              "ios": null,
+              "android": null,
+              "company": "Personal Project"
+            },
+            "html": "<p>This Android app empowers mechanics with service lists, customer details, and navigation functionalities using Google Maps SDK. With Java, Firebase, and Google Maps, mechanics can manage inventory, upload service photos for verification, and ensure efficient service delivery, enhancing customer satisfaction and workflow management.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "date": "2021-01-01",
+              "title": "Urban Clone",
+              "tech": ["Android", "Java", "Rest API", "XML", "Firebase"],
+              "github": "https://github.com/JayBirthariya581/Urban-Clone",
+              "android": null,
+              "ios": null,
+              "external": "https://github.com/JayBirthariya581/Urban-Clone/releases/tag/android",
+              "company": "Personal Project"
+            },
+            "html": "<p>Inspired by Urban Company, this Android app offers a booking system, location services via Google Maps SDK and Places API, and secure payments through Razor Pay API. Leveraging Java, Firebase, and Google Cloud Platform, it facilitates service booking, location selection, and payment processing, enhancing user experience and service accessibility.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "date": "2020-08-01",
+              "title": "Discord Clone App",
+              "tech": ["Android", "Java", "Rest API", "XML", "Firebase"],
+              "github": "https://github.com/JayBirthariya581/Urban-Clone",
+              "android": null,
+              "ios": null,
+              "external": "https://github.com/JayBirthariya581/Urban-Clone/releases/tag/android",
+              "company": "Personal Project"
+            },
+            "html": "<p> This Android app mimics Discord's functionalities, enabling community chatting with Firebase Real-Time Database backend. Utilizing Java, Android SDK, and Firebase, users can create servers, channels, send friend requests, and engage in direct chats. It implements Firebase Cloud Messaging for notifications, enhancing communication and social interaction within the platform.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "date": "2022-01-01",
+              "title": "Soil Health Monitoring System",
+              "tech": ["Android", "Java", "Rest API", "XML", "Firebase"],
+              "github": null,
+              "external": "https://drive.google.com/file/d/18B9quBP4_B1KYW6QC8Ks5L_OqZK0vLSD/view?usp=sharing",
+              "ios": null,
+              "android": "https://drive.google.com/file/d/1sfjdTg_HQQjN8THzQO5WYptLETDQomOt/view?usp=drive_link",
+              "company": "Research Internship"
+            },
+            "html": "<p>This Android application, developed using Java and IoT technologies, monitors soil health parameters. Real-time data collection and analysis facilitate informed agricultural decisions. Results are transmitted to a government website for crop recommendations, enhancing agricultural productivity and sustainability.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "date": "2022-09-01",
+              "title": "Ubar Eats Clone",
+              "tech": ["React", "Firebase", "Rest API", "Node"],
+              "github": "https://github.com/JayBirthariya581/Uber-Eats-Clone",
+              "external": "",
+              "ios": null,
+              "android": null,
+              "company": "Personal Project"
+            },
+            "html": "<p>This app mirrors Uber's interface, enabling users to browse and order food from various restaurants sourced from the Yelp API. Developed using React and Firebase, this app marks your initiation into app development. Users can explore restaurant options, place orders, and track deliveries. Leveraging Firebase ensures real-time updates and seamless user interactions, making it an impressive first venture into app development with potential for further enhancements.</p>"
+          }
+        }
+      ]
+    }
+  }
+}

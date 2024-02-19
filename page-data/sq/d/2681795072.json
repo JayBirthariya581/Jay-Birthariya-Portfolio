@@ -1,0 +1,163 @@
+{
+  "data": {
+    "featured": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Client App | TWS",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsTAAALEwEAmpwYAAABcElEQVQoz32Q0U7bQBBF/RogjuOynpmdXW/W2E4cEwEhjgmymqpq+tg8tEWq2opf4hf6p5VjZJBjuE+r2b177h3HtQEKQMKOCOvxOb4nZ4gfMOhxngOUEX+NWCHAW+aTwSkRdZxANAHxb796+v35nkGQJOoze57fgxUi8Nxv5Wb/4xeTGo896MM7TAz4ckFEQoiiKL7sdutqu6k+fdxuq6oyxgRBt54zcr3OCABms9myWK2L1WKRXy+vy81dqMNjuOMemRGxhjABIisOCAQEcIQ9kEc95nqFAFEUZVkmpaSDeszucNSmPc7fDNtD56UzPHOllNNpMjuIiACAmefzubWWiOIkzrIsTdPGppTK8zwM6xU4g8GJ1ubqqkySxFrbfq+YASCJ401RXsQXYRi2jZRSzPzcmVlf5kuttZTydeyx79/eLB++/zTGWGujg5RSANCsoO5MRFpze9ESfH+8KtZ//j5OJqZJnqapMQYRG/J/k6JW26WIe1kAAAAASUVORK5CYII="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/3936989a99991beb6d649d7a7039df60/d2194/client_banner.png",
+                        "srcSet": "/static/3936989a99991beb6d649d7a7039df60/cebcc/client_banner.png 175w,\n/static/3936989a99991beb6d649d7a7039df60/272cf/client_banner.png 350w,\n/static/3936989a99991beb6d649d7a7039df60/d2194/client_banner.png 700w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/3936989a99991beb6d649d7a7039df60/9aa63/client_banner.avif 175w,\n/static/3936989a99991beb6d649d7a7039df60/e6db6/client_banner.avif 350w,\n/static/client_banner.avif 700w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/3936989a99991beb6d649d7a7039df60/240e7/client_banner.webp 175w,\n/static/3936989a99991beb6d649d7a7039df60/faefe/client_banner.webp 350w,\n/static/3936989a99991beb6d649d7a7039df60/d5dc4/client_banner.webp 700w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 438
+                  }
+                }
+              },
+              "tech": [
+                "Android",
+                "Node",
+                "Java",
+                "Rest API",
+                "XML",
+                "Firebase"
+              ],
+              "github": "https://github.com/JayBirthariya581/Client-Project-TWS",
+              "external": null,
+              "ios": null,
+              "android": null,
+              "company": "Personal Project"
+            },
+            "html": "A comprehensive Android app facilitating booking, payment, and notifications for two-wheeler servicing. Utilizing Java, Android SDK, Firebase, Google Maps, and Razor Pay API, it enables seamless booking, location selection via Google Maps SDK, and SMS authentication. Users can receive notifications, referrals, and initiate payments securely."
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Manage App | TWS",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsTAAALEwEAmpwYAAACBklEQVQoz23O7W6bMBQGYO5iSoEY7GBjY2MwH/6AJk3SrStVlQbabJq23f9lTCRR1x+VHllH57zHtie76VOZmbidhDuf9vOMl7vxgyl3k7Bj2b/uH093D6dm89rfv3X7N2Gny/Rj3hP2+J+Zcf2iuvHv7x/jdHo5vv359fM4nrL2Ov2Y94R5eSfdUXZj4UbpRqaP3BxzN3Izk+4qn9+45j2uD1wfhDlwc5BuLLqp6Maz6XLLpX4vcnvk5zA3B4+3z0I/0XpgzROrh7Sa0Xq4dLL2Oa0er+qBzc2B1XOeNoPH6iHhOiblTSQT0SNuAFE+Uj4sfVjG1CTCkWIdEwNQuYjLm7j0oQqQiqjziHpIWJPr9ZI6IDa0vaftGkoXi36ZuiXRMe9w+ZVXD7zdFlUPM+OjClJDilsvVd8xazBvF7EE1LF6l5s9re6R3GK5BakNsUGpw/ldVN5JZRKpfVQBXENmPVJ+A6hEpFlEwk8aLG+pcii3ATbBqvGhilKbFDuidqxaA96F2IH5RyYkxlvJPYhFKjdLogOssVpz2ydNH3MN0yZMKjAvb0W9E/WGlBvIbudNrENqvVW+A7Egol/AMsQaFWskWsRNIjrITLCqQGri1BLek9zBrLmBlT9Ty6T1VmIbRDxaqS9hFiRNgFsf1T6q3oHUQNbHqQXMwsxA2kbUAKLDpP0H4Daf056mKVMAAAAASUVORK5CYII="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/d2194/manage_banner.png",
+                        "srcSet": "/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/cebcc/manage_banner.png 175w,\n/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/272cf/manage_banner.png 350w,\n/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/d2194/manage_banner.png 700w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/9aa63/manage_banner.avif 175w,\n/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/e6db6/manage_banner.avif 350w,\n/static/manage_banner.avif 700w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/240e7/manage_banner.webp 175w,\n/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/faefe/manage_banner.webp 350w,\n/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/d5dc4/manage_banner.webp 700w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 438
+                  }
+                }
+              },
+              "tech": [
+                "Android",
+                "Node",
+                "Java",
+                "Rest API",
+                "XML",
+                "Firebase"
+              ],
+              "github": "https://github.com/JayBirthariya581/Manager-Project-TWS",
+              "external": null,
+              "ios": null,
+              "android": null,
+              "company": "Personal Project"
+            },
+            "html": "<p>The management app streamlines service allocation, inventory management, and scheduling with Java, Firebase, and Google Maps integration. It enables the creation of services, mechanic allocation, inventory management, slot and booking management, coupon and package management, and referral system maintenance, enhancing operational efficiency and customer service."
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "GRE Vocab Preparation App",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsTAAALEwEAmpwYAAACBklEQVQoz23O7W6bMBQGYO5iSoEY7GBjY2MwH/6AJk3SrStVlQbabJq23f9lTCRR1x+VHllH57zHtie76VOZmbidhDuf9vOMl7vxgyl3k7Bj2b/uH093D6dm89rfv3X7N2Gny/Rj3hP2+J+Zcf2iuvHv7x/jdHo5vv359fM4nrL2Ov2Y94R5eSfdUXZj4UbpRqaP3BxzN3Izk+4qn9+45j2uD1wfhDlwc5BuLLqp6Maz6XLLpX4vcnvk5zA3B4+3z0I/0XpgzROrh7Sa0Xq4dLL2Oa0er+qBzc2B1XOeNoPH6iHhOiblTSQT0SNuAFE+Uj4sfVjG1CTCkWIdEwNQuYjLm7j0oQqQiqjziHpIWJPr9ZI6IDa0vaftGkoXi36ZuiXRMe9w+ZVXD7zdFlUPM+OjClJDilsvVd8xazBvF7EE1LF6l5s9re6R3GK5BakNsUGpw/ldVN5JZRKpfVQBXENmPVJ+A6hEpFlEwk8aLG+pcii3ATbBqvGhilKbFDuidqxaA96F2IH5RyYkxlvJPYhFKjdLogOssVpz2ydNH3MN0yZMKjAvb0W9E/WGlBvIbudNrENqvVW+A7Egol/AMsQaFWskWsRNIjrITLCqQGri1BLek9zBrLmBlT9Ty6T1VmIbRDxaqS9hFiRNgFsf1T6q3oHUQNbHqQXMwsxA2kbUAKLDpP0H4Daf056mKVMAAAAASUVORK5CYII="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/d2194/gre_banner.png.png",
+                        "srcSet": "/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/cebcc/gre_banner.png.png 175w,\n/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/272cf/gre_banner.png.png 350w,\n/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/d2194/gre_banner.png.png 700w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/9aa63/gre_banner.avif 175w,\n/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/e6db6/gre_banner.avif 350w,\n/static/gre_banner.avif 700w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/240e7/gre_banner.webp 175w,\n/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/faefe/gre_banner.webp 350w,\n/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/d5dc4/gre_banner.webp 700w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 438
+                  }
+                }
+              },
+              "tech": [
+                "Android",
+                "Java",
+                "Rest API",
+                "XML",
+                "Firebase"
+              ],
+              "github": "https://github.com/JayBirthariya581/Gre-Vocab-Preparation",
+              "external": "https://github.com/JayBirthariya581/Gre-Vocab-Preparation/releases/tag/android",
+              "ios": null,
+              "android": "https://github.com/JayBirthariya581/Gre-Vocab-Preparation/releases/tag/android",
+              "company": "Personal Project"
+            },
+            "html": "<p>This app offers an extensive database of nearly 2000 GRE vocabulary words categorized for easy learning. Users can access tests in various formats, track their progress, and create personalized revision lists, making it an indispensable tool for mastering GRE vocabulary.Users can access tests in various formats, track their progress, and create personalized revision lists, making it an indispensable tool for mastering GRE vocabulary."
+          }
+        }
+      ]
+    }
+  }
+}
